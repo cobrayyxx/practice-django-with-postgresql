@@ -78,13 +78,13 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
-        'NAME': 'practice-sekolah-toefl',
+        'NAME': 'd661pr89ncb9d5',
 
-        'USER': 'postgres',
+        'USER': 'fjhhopcblvxuwe',
 
-        'PASSWORD': 'hazim123',
+        'PASSWORD': '4f39b1691580ceeb4ebaf09dbf1e2c1995680a84ac508ec68fa6eb7e9ba163bf',
 
-        'HOST': 'localhost',
+        'HOST': 'ec2-35-153-114-74.compute-1.amazonaws.com',
 
         'PORT': '5432',
     }
